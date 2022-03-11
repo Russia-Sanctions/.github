@@ -8,6 +8,7 @@ to any website that opts in by installing and using these plugins.
 
 | Framework | Package Link | Repository Link |
 | --------- | ------------ | ----------------|
+| CloudFront (AWS Lambda) | [Serverless Repo](https://serverlessrepo.aws.amazon.com/applications/us-east-1/761449685630/Russia-Sanctions) | [CloudFront](https://github.com/Russia-Sanctions/CloudFront) |
 | connect (node.js) | [npm](https://www.npmjs.com/package/@russia-sanctions/connect-express)  | [Connect-Express](https://github.com/Russia-Sanctions/Connect-Express) |
 | express.js (node.js) | [npm](https://www.npmjs.com/package/@russia-sanctions/connect-express)  | [Connect-Express](https://github.com/Russia-Sanctions/Connect-Express) |
 | Laravel (PHP) | [Packagist](https://packagist.org/packages/russia-sanctions/laravel) | [Laravel](https://github.com/Russia-Sanctions/Laravel) |
