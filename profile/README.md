@@ -13,3 +13,4 @@ to any website that opts in by installing and using these plugins.
 | express.js (node.js) | [npm](https://www.npmjs.com/package/@russia-sanctions/connect-express)  | [Connect-Express](https://github.com/Russia-Sanctions/Connect-Express) |
 | Laravel (PHP) | [Packagist](https://packagist.org/packages/russia-sanctions/laravel) | [Laravel](https://github.com/Russia-Sanctions/Laravel) |
 | Nuxt.js (node.js) | [npm](https://www.npmjs.com/package/@russia-sanctions/connect-express)  | [Connect-Express](https://github.com/Russia-Sanctions/Connect-Express) |
+| Wordpress (PHP) | N/A (external project) | [swsp-wordpress-plugin](https://github.com/stopwarstopputin/swsp-wordpress-plugin) |
